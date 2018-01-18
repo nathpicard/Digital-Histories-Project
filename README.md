@@ -1,4 +1,4 @@
-# Digital-Humanities-Project
+# Digital-Histories-Project
 Chinatown Projection Mapping
 
 **The Idea**
